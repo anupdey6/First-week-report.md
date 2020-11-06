@@ -222,18 +222,18 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 
  '''python
        
- food = 'spam'
+    food = 'spam'
 
- if food == 'spam':
+    if food == 'spam':
 
-  print('Ummmm, my favorite!')
+        print('Ummmm, my favorite!')
 
- print('I feel like saying it 100 times...')
+    print('I feel like saying it 100 times...')
 
- print(100 * (food + '! '))
+    print(100 * (food + '! '))
        
  ''' 
- 
+
 
     -  The if else statement
 - Chained conditionals
