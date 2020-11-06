@@ -1,5 +1,10 @@
 # Week evaluation report
 
+|      |  content     |        |
+| --- | --- | --- |
+| Task-1 | Task-2 | Task-3 |
+
+
 # Task-1
 
   - What Is Python?
@@ -254,7 +259,19 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
   - [Guessing Game](https://colab.research.google.com/drive/16AN9ABewjIgRZIwrREkJRBVJ1kqJbap1)
 
 
-![alt text](https://blog.teamtreehouse.com/wp-content/uploads/2017/11/Thanksgiving.png)
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+
+[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+[1]: https://www.facebook.com/anup.dey.315
+[2]: https://myaccount.google.com/profile?pli=1
+[3]: https://github.com/anupdey6
 
 
 
