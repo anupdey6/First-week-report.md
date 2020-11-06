@@ -135,6 +135,10 @@
 
                To remove all the elements from the set, clear() function is used.
 
+          
+          
+          
+          
           Sets can be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
 
         A. Set Union:
@@ -160,7 +164,21 @@
             Difference of A and B (A – B) is a set of elements that are only in A but not in B. Similarly, B – A is a set of element in B but not in A.
             Difference is performed using - operator.
 
+        D. Set Symmetric Difference:
 
+        ![alt text](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/setsd.jpg)
+
+            Symmetric Difference of A and B is a set of elements in both A and B except those that are common in both.
+            Symmetric difference is performed using ^ operator.
+
+       - Dictionary
+          
+           Dictionary in Python is an unordered collection of data values, used to store data values like a map.
+
+           Note – Dictionary keys are case sensitive, same name but different cases of Key will be treated distinctly.
+
+              A. Adding elements to a Dictionary:
+              
     
 
 
