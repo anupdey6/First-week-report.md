@@ -178,7 +178,16 @@
            Note – Dictionary keys are case sensitive, same name but different cases of Key will be treated distinctly.
 
               A. Adding elements to a Dictionary:
-              
+
+                 In order to access the items of a dictionary refer to its key name. Key can be used inside square brackets. There is also a method called get() that will also help in accessing the element from a dictionary.
+
+              B. Removing Elements from Dictionary:
+
+                 In Python Dictionary, deletion of keys can be done by using the del keyword.
+
+                 Using del keyword, specific values from a dictionary as well as whole dictionary can be deleted. Other functions like pop() and popitem() can also be used for deleting specific values and arbitrary values from a Dictionary. All the items from a dictionary can be deleted at once by using clear() method.
+
+
     
 
 
