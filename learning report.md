@@ -27,7 +27,7 @@
      In Python, sequence is the ordered collection of similar or different data types.
        - List 
 
-       Lists are just like the arrays, declared in other languages. Lists need not be homogeneous always which makes it the most powerful tool in Python.
+            Lists are just like the arrays, declared in other languages. Lists need not be homogeneous always which makes it the most powerful tool in Python.
 
           A. List Methods
 
@@ -46,31 +46,49 @@
           copy() - Returns a shallow copy of the list
       - String
 
-      In Python, Strings are arrays of bytes representing Unicode characters. A string is a collection of one or more characters put in a single quote, double-quote or triple quote.
+           In Python, Strings are arrays of bytes representing Unicode characters. A string is a collection of one or more characters put in a single quote, double-quote or triple quote.
 
            A.String Methods
 
-           Here are some of the most common string methods. A method is like a function, but it runs “on” an object.
+            Here are some of the most common string methods. A method is like a function, but it runs “on” an object.
 
-           s.lower(), s.upper() — returns the lowercase or uppercase version of the string
+             s.lower(), s.upper() — returns the lowercase or uppercase version of the string
 
-           s.strip() — returns a string with whitespace removed from the start and end
+             s.strip() — returns a string with whitespace removed from the start and end
 
-           s.isalpha()/s.isdigit()/s.isspace()… — tests if all the string chars are in the various character classes
+             s.isalpha()/s.isdigit()/s.isspace()… — tests if all the string chars are in the various character classes
 
-           s.startswith(‘ai’), s.endswith(‘ai’) — tests if the string starts or ends with the given ai strin
+             s.startswith(‘ai’), s.endswith(‘ai’) — tests if the string starts or ends with the given ai strin
 
-           s.find(‘other’) — searches for the given other string (not a regular expression) within s, and returns the first index where it begins or -1 if not found
+             s.find(‘other’) — searches for the given other string (not a regular expression) within s, and returns the first index where it begins or -1 if not found
 
-           s.replace(‘old’, ‘new’) — returns a string where all occurrences of ‘old’ have been replaced by ‘new’
+             s.replace(‘old’, ‘new’) — returns a string where all occurrences of ‘old’ have been replaced by ‘new’
 
-           s.split(‘delim’) — returns a list of substrings separated by the given delimiter. The delimiter is not a regular expression, it’s just text. ‘aaa,bbb,ccc’.split(‘,’) -> [‘aaa’, ‘bbb’, ‘ccc’].
-           As a convenient special case s.split() (with no arguments) splits on all whitespace chars.
+             s.split(‘delim’) — returns a list of substrings separated by the given delimiter. The delimiter is not a regular expression, it’s just text. ‘aaa,bbb,ccc’.split(‘,’) -> [‘aaa’, ‘bbb’, ‘ccc’].
+             As a convenient special case s.split() (with no arguments) splits on all whitespace chars.
 
-           s.join(list) — opposite of split(), joins the elements in the given list together using the string as the delimiter.e.g. ‘—‘.join([‘aaa’, ‘bbb’, ‘ccc’]) -> aaa—bbb—ccc
+             s.join(list) — opposite of split(), joins the elements in the given list together using the string as the delimiter.e.g. ‘—‘.join([‘aaa’, ‘bbb’, ‘ccc’]) -> aaa—bbb—ccc
 
 
            B. Python String Operations
+
+               - Concatenation of Strings
+               
+                 Joining of two or more strings into a single one is called concatenation.
+
+                - Escape Sequence
+
+                  An escape sequence starts with a backslash and is interpreted differently. If we use single quote to represent a string, all the single quotes inside the string must be escaped. Similar is the case with double quotes. Here is how it can be done to represent the above text.
+
+                - Formatting Strings
+
+                  The format() method that is  available with the string object is very versatile and powerful in formatting strings. Format strings contains curly braces {} as placeholders or replacement fields which gets replaced.
+
+       - Tuple
+
+           Tuple is an ordered collection of Python objects much like a list. The sequence of values stored in a tuple can be of any type, and they are indexed by integers.
+
+
 
 
       
