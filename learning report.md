@@ -1,5 +1,20 @@
 # Week evaluation report
-## Data Types and Operators
+
+# Task-1
+
+  - What Is Python?
+  - What can Python do?
+  - How does Python work?
+  - Install Python
+  - Visual studio code
+
+
+---
+
+
+# Task-2
+
+Data Types and Operators
 - Variables and Data Types
   - Variable
 
@@ -202,9 +217,9 @@
 
 
 ---
+# Task-3
 
-
-# Decision Making
+[Decision Making](https://techvidvan.com/tutorials/decision-making-in-python/)
 
 Decision making is the anticipation of conditions occurring while execution of the program and specifying actions taken according to the conditions.
 
@@ -213,28 +228,10 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 
 
 
-# Conditional Statements and Loop
+ [Conditional Statements and Loop](https://www.openbookproject.net/books/bpp4awd/ch04.html)
 
   - Conditional execution
     - The if statement
-
-       In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly.
-
- '''python
-       
-    food = 'spam'
-
-    if food == 'spam':
-
-        print('Ummmm, my favorite!')
-
-    print('I feel like saying it 100 times...')
-
-    print(100 * (food + '! '))
-       
- ''' 
-
-
     -  The if else statement
 - Chained conditionals
 - Nested conditionals
@@ -245,6 +242,21 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 - The break statement
 - The continue statement
 - List comprehensions
+
+[Assignments](https://dsft.code-data-ai.com/python-workshops/)
+
+---
+
+# Task-4 
+
+  - [Functions](https://www.openbookproject.net/books/bpp4awd/ch05.html)
+  - How to write a script?
+  - [Guessing Game](https://colab.research.google.com/drive/16AN9ABewjIgRZIwrREkJRBVJ1kqJbap1)
+
+
+![alt text](https://blog.teamtreehouse.com/wp-content/uploads/2017/11/Thanksgiving.png)
+
+
 
 
 
