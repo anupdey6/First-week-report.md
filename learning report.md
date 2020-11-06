@@ -187,6 +187,10 @@
 
                  Using del keyword, specific values from a dictionary as well as whole dictionary can be deleted. Other functions like pop() and popitem() can also be used for deleting specific values and arbitrary values from a Dictionary. All the items from a dictionary can be deleted at once by using clear() method.
 
+                 ---
+
+                 
+
 
     
 
