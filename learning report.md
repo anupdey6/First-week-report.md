@@ -137,7 +137,7 @@
 
           Sets can be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
 
-            A. Set Union:
+        A. Set Union:
 
         ![alt text](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/set_u.jpg)
 
@@ -145,7 +145,8 @@
 
           Union is performed using | operator.
 
-            B. Set Intersection:
+
+        B. Set Intersection:
 
         ![alt text](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/seti.jpg)
 
