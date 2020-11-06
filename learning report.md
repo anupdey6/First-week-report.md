@@ -260,7 +260,7 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 
 
 
-# For more information you ca find find in following links :
+# For more information you can find find in following links :
 
 
 [![alt text][1.1]][1]
