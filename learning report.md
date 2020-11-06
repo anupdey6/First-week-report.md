@@ -5,6 +5,15 @@
 | Task-1 | Task-2 | Task-3 |
 
 
+<!--ts-->
+   * [gh-md-toc](#Task-1)
+   * [Table of contents](#Task-2)
+   * [Installation](#Task-3)
+   * [Usage](#Task-4)
+<!--te-->
+
+
+
 # Task-1
 
   - What Is Python?
