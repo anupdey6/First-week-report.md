@@ -187,27 +187,7 @@
 
                  Using del keyword, specific values from a dictionary as well as whole dictionary can be deleted. Other functions like pop() and popitem() can also be used for deleting specific values and arbitrary values from a Dictionary. All the items from a dictionary can be deleted at once by using clear() method.
 
-                 ---
 
-                 
-
-
-    
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-      
 
   
 
@@ -220,6 +200,47 @@
   - Membership Operators
   - Identity Operators
 
+
+---
+
+
+# Decision Making
+
+Decision making is the anticipation of conditions occurring while execution of the program and specifying actions taken according to the conditions.
+
+Decision structures evaluate multiple expressions which produce TRUE or FALSE as an outcome. You need to determine which action to take and which statements to execute if the outcome is TRUE or FALSE otherwise.
+
+
+
+
+# Conditional Statements and Loop
+
+  - Conditional execution
+    - The if statement
+
+       In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly.
+
+       '''  food = 'spam'
+
+       if food == 'spam':
+
+       print('Ummmm, my favorite!')
+
+       print('I feel like saying it 100 times...')
+
+       print(100 * (food + '! '))
+       
+      ''' 
+    - The if else statement
+- Chained conditionals
+- Nested conditionals
+- Iteration
+- The for loop
+- Tables
+- The while statement
+- The break statement
+- The continue statement
+- List comprehensions
 
 
 
