@@ -72,21 +72,68 @@
 
            B. Python String Operations
 
-               - Concatenation of Strings
+               - Concatenation of Strings:
                
                  Joining of two or more strings into a single one is called concatenation.
 
-                - Escape Sequence
+                - Escape Sequence:
 
                   An escape sequence starts with a backslash and is interpreted differently. If we use single quote to represent a string, all the single quotes inside the string must be escaped. Similar is the case with double quotes. Here is how it can be done to represent the above text.
 
-                - Formatting Strings
+                - Formatting Strings:
 
                   The format() method that is  available with the string object is very versatile and powerful in formatting strings. Format strings contains curly braces {} as placeholders or replacement fields which gets replaced.
 
        - Tuple
 
            Tuple is an ordered collection of Python objects much like a list. The sequence of values stored in a tuple can be of any type, and they are indexed by integers.
+
+           The important difference between a list and a tuple is that tuples are immutable which means you can not modify the elements in a tuple.
+
+             A. Accessing element of a tuple:
+
+               In order to access the tuple items refer to the index number. Use the index operator [ ] to access an item in a tuple. The index must be an integer.
+
+             B. Deleting/Updating elements of tuple:
+
+               In python, deletion or Updation of a tuple is not allowed.
+
+               This is because tuples are immutable, hence elements of a tuple cannot be changed once it has been assigned. Only new tuples can be reassigned to the same name.
+
+
+
+  4. Container
+     
+     Dictionaries and sets are containers for sequential data.
+
+       - Set
+
+          Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements.
+
+            A. Creating a set:
+
+               Sets can be created by using the built-in set() function with an iterable object or a sequence by placing the sequence inside curly braces, separated by ‘comma’.
+
+               A set contains only unique elements but at the time of set creation, multiple duplicate values can also be passed.
+
+            B. Adding Elements to a Set:
+
+               Elements can be added to the Set by using built-in add() function.
+
+               Only one element at a time can be added to the set by using add() method.
+               For addition of two or more elements Update() method is used.
+
+            C. Accessing a Set:
+               
+               Set items cannot be accessed by referring to an index, since sets are unordered the items has no index. But you can loop through the set items using a for loop, or ask if a specified value is present in a set, by using the in keyword.
+
+            D. Removing elements from a set:
+
+               Elements can be removed from the Set by using built-in remove() function but a KeyError arises if element doesn’t exist in the set. To remove elements from a set without KeyError, use discard(). 
+
+               Pop() function can also be used to remove and return an element from the set, but it removes only the last element of the set.
+
+               To remove all the elements from the set, clear() function is used.
 
 
 
