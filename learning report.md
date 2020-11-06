@@ -220,7 +220,9 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 
        In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly.
 
-       '''  food = 'spam'
+       '''python
+       
+       food = 'spam'
 
        if food == 'spam':
 
@@ -230,7 +232,7 @@ Decision structures evaluate multiple expressions which produce TRUE or FALSE as
 
        print(100 * (food + '! '))
        
-      ''' 
+       ''' 
     - The if else statement
 - Chained conditionals
 - Nested conditionals
