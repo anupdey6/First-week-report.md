@@ -150,6 +150,21 @@
 
         ![alt text](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/seti.jpg)
 
+           Intersection of A and B is a set of elements that are common in both sets.
+           Intersection is performed using & operator. 
+
+        C. Set Difference:
+
+        ![alt text](https://dsft.code-data-ai.com/wp-content/uploads/2019/12/setd.jpg)
+
+            Difference of A and B (A – B) is a set of elements that are only in A but not in B. Similarly, B – A is a set of element in B but not in A.
+            Difference is performed using - operator.
+
+
+    
+
+
+
 
 
 
