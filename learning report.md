@@ -7,7 +7,7 @@ Table of contents
    * [Task-2](#Task-2)
    * [Task-3](#Task-3)
    * [Task-4](#Task-4)
-   * [Sequential](3. Sequential)
+   * [Sequential](#Sequential)
 <!--te-->
 
 
