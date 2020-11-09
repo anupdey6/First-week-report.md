@@ -25,7 +25,7 @@ Table of contents
 
 # Task-2
 
-Data Types and Operators
+[Data Types and Operators](https://dsft.code-data-ai.com/data-types-python/)
 - Variables and Data Types
   - Variable
 
